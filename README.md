@@ -1,5 +1,5 @@
 # GridTracker
-Amendment GridTracker for english Chinese translation changed, cann't display the select language.
+Amendment GridTracker for English and Chinese translation changed, cann't display the select language.
 Updated to GridTracker 1.23.0110
 
 About GridTracker
