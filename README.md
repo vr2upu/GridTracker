@@ -1,8 +1,16 @@
 # GridTracker
 Amendment GridTracker for English and Chinese translation changed, cann't display the select language.
-Updated to GridTracker 1.23.0110
+Updated to GridTracker 1.23.0110.
 
+How to
+1. Download new version from GridTracker and install.
+2. copy the files and replace the same path files.
+
+The other files will upload later as soon.
+
+------------------------------------------
 About GridTracker
+
 GridTracker is designed for Amateur radio use. It's original tag-line was:   "GridTracker listens to traffic from WSJT-X and displays it on a map. It will also load ADIF log files".
 This was back in February of 2018.  At its core GridTracker has remained true to that description but it has evolved to be a very powerful amateur radio tool and not just for FT8.
 GridTracker is a warehouse of amateur radio information presented in an easy to use interface, from live traffic decodes, logbooks, spot reports, weather, current solar conditions and more.
