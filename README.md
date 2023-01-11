@@ -1,5 +1,6 @@
 # GridTracker
-GridTracker amendment for english Chinese translation change
+Amendment GridTracker for english Chinese translation changed, cann't display the select language.
+Updated to GridTracker 1.23.0110
 
 About GridTracker
 GridTracker is designed for Amateur radio use. It's original tag-line was:   "GridTracker listens to traffic from WSJT-X and displays it on a map. It will also load ADIF log files".
