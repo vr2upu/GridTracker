@@ -15,11 +15,7 @@ changed to
 
  ...
  
- var g_gridViewArray = Array();
- 
- ...
- 
- if (g_appSettings.locale === "en")
+  if (g_appSettings.locale === "en")
  { var g_gridViewArray = Array();
  
  ... 
