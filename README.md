@@ -27,3 +27,18 @@ changed to
  
   ...
  
+Fix gt_roster.html
+
+              <div>
+                <label data-i18n="roster.secondary.exceptions.onlyMsg.label" title="Only Decodes Containing...">
+                <input type="checkbox" id="onlyMsg" onchange="valuesChanged();" />
+                  Only
+                </label>
+
+change to
+
+              <div>
+              <input type="checkbox" id="onlyMsg" onchange="valuesChanged();" />
+                <label data-i18n="roster.secondary.exceptions.onlyMsg.label" title="Only Decodes Containing...">
+                  Only
+                </label>
