@@ -16,11 +16,14 @@ changed to
  ...
  
   if (g_appSettings.locale === "en")
- { var g_gridViewArray = Array();
+  
+  {
+  
+  var g_gridViewArray = Array();
  
- ... 
+  ... 
  
- var workline = ` - `+$.i18n("gt.TitleInfo.Worked")+` ${g_QSOcount} `+$.i18n("gt.TitleInfo.Confirmed")+` ${g_QSLcount}`
+  var workline = ` - `+$.i18n("gt.TitleInfo.Worked")+` ${g_QSOcount} `+$.i18n("gt.TitleInfo.Confirmed")+` ${g_QSLcount}`
  
- ...
+  ...
  
