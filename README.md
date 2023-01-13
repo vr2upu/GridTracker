@@ -30,11 +30,11 @@ changed to
 Fix gt_roster.html
 
               <div>
-                <label data-i18n="roster.secondary.exceptions.onlyMsg.label" title="Only Decodes Containing...">
-                <input type="checkbox" id="onlyMsg" onchange="valuesChanged();" />
-                  Only
+                <label title="No Decodes Containing...">
+                  <input type="checkbox" id="noMsg" onchange="valuesChanged();" />
+                  No &nbsp;&nbsp;
                 </label>
-
+                
 change to
 
               <div>
