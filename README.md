@@ -1,15 +1,12 @@
 # GridTracker
 
-Fix mainwindow title display QSL count and QSO count.
+Fix gt.js
 
-
-original gt.js
-
- ...
+ ... fix mainwindow mapFilter.data.label
  
  var g_gridViewArray = Array();
  
- ...
+ ... fix mainwindow title display QSL count and QSO count
  
  var workline = ` - Worked ${g_viewInfo[g_currentOverlay][2]} Confirmed ${g_viewInfo[g_currentOverlay][3]}`
  
