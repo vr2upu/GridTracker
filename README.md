@@ -1,4 +1,8 @@
-# GridTracker
+# Howto using , just download from GridTracker  https://gridtracker.org/
+  and install GridTracker.
+  copy all files from here to replaced them.
+
+--------------------------------------
 
 Fix gt.js
 
@@ -6,26 +10,26 @@ Fix gt.js
  
  var g_gridViewArray = Array();
  
- ... fix mainwindow title display QSL count and QSO count
+changed to
+
+ if (g_appSettings.locale === "en")
+  
+  {
+  
+  var g_gridViewArray = Array();
+  
+  ----------------------
+ 
+ Fix mainwindow title display QSL count and QSO count
  
  var workline = ` - Worked ${g_viewInfo[g_currentOverlay][2]} Confirmed ${g_viewInfo[g_currentOverlay][3]}`
  
 
 changed to
-
- ...
- 
-  if (g_appSettings.locale === "en")
-  
-  {
-  
-  var g_gridViewArray = Array();
- 
-  ... 
- 
+   
   var workline = ` - `+$.i18n("gt.TitleInfo.Worked")+` ${g_QSOcount} `+$.i18n("gt.TitleInfo.Confirmed")+` ${g_QSLcount}`
  
-  ...
+  -------------------------
  
 Fix gt_roster.html
 
@@ -42,3 +46,4 @@ change to
                 <label data-i18n="roster.secondary.exceptions.onlyMsg.label" title="Only Decodes Containing...">
                   Only
                 </label>
+
