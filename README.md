@@ -1,6 +1,6 @@
-# Howto using , just download from GridTracker  https://gridtracker.org/
-  and install GridTracker.
-  copy all files from here to replaced them.
+# Howto using , just download from GridTracker  https://gridtracker.org/  ,and install GridTracker.
+  
+  copy all files from here and replaced.
 
 --------------------------------------
 
