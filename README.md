@@ -58,15 +58,15 @@ The information contained within this site / document is subject to change witho
 
 Permission is granted to copy this site / information, at no charge for non-commercial purposes. The sources cited and present copyright notice is to be included in all copies. Recipients of copies are equally bound to abide by the present conditions. Prior written permission is required for any commercial use or publication of this document, in whole or in part.
 
-Copyright ® 2022 GridTracker.org
+Copyright ® 2023 GridTracker.org
 
 All Rights Reserved Worldwide
 
 WSJT-X is copyright ® Joseph Taylor, K1JT and the WSJT-X Development Group, et al.
-https://physics.princeton.edu/pulsar/K1JT/wsjtx.html
+https://sourceforge.net/projects/wsjt/
 
 JTDX is copyright ® Igor Chernikov, UA3DJY and Arvo Järve ES1JA
-https://jtdx.tech/
+https://sourceforge.net/projects/jtdx/
 
 HamClock is copyright ® Elwood Charles Downey, WB0OEW, Clear Sky Institute
 https://www.clearskyinstitute.com/ham/HamClock/
